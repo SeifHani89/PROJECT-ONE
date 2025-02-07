@@ -1,0 +1,15 @@
+.interface {
+    background-image: url(../imgs/banner-bg.jpg);
+    background-size: cover;
+    border-radius: 0 0 100px 100px;
+}
+.interface .title {
+    padding: 70px 0;
+    color: white;
+}
+.interface .title h2 {
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
